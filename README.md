@@ -41,5 +41,5 @@ DB_NAME=tienda_kia
 
 ## 📫 Autor / Author
 
-**Juan Eduardo**  
-📧 [juan@example.com](mailto:juan@example.com)
+**Juan Eduardo Zorrilla Chavez**  
+📧 [juanesgatito13738@gmail.com]
